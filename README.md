@@ -1,0 +1,1 @@
+This is the sample student rest api with swagger documentation.
